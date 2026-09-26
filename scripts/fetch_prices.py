@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-"""Fetch TGJU prices (currencies + coins + gold) into one JSON file."""
 
 import json
 import re
@@ -151,7 +150,6 @@ def main():
 
     payload = {
         "updated_at": updated_at,
-        "source":     "https://www.tgju.org",
         "counts":     {k: len(v) for k, v in sections.items()},
         "sections":   sections,
         "items":      by_slug,
