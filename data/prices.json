@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T05:27:19.160596Z",
+  "updated_at": "2026-09-30T06:26:53.023825Z",
   "counts": {
     "currencies": 36,
     "coins": 24,
@@ -628,8 +628,8 @@
     "silver_925": {
       "slug": "silver_925",
       "name": "گرم نقره ۹۲۵",
-      "price_raw": "4,927,880",
-      "price": 4927880,
+      "price_raw": "4,927,840",
+      "price": 4927840,
       "category": "gold"
     },
     "silver_999": {
