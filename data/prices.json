@@ -124,8 +124,8 @@
     "price_dollar_rl": {
       "slug": "price_dollar_rl",
       "name": "دلار",
-      "price_raw": "2,550,000",
-      "price": 2550000,
+      "price_raw": "2,750,000",
+      "price": 2750000,
       "category": "currencies"
     },
     "price_eur": {
