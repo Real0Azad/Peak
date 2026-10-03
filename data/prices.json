@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T19:04:55.055223Z",
+  "updated_at": "2026-10-03T22:20:21.738241Z",
   "counts": {
     "currencies": 36,
     "coins": 24,
@@ -313,8 +313,8 @@
     "price_thb": {
       "slug": "price_thb",
       "name": "بات تایلند",
-      "price_raw": "80,250",
-      "price": 80250,
+      "price_raw": "80,120",
+      "price": 80120,
       "category": "currencies"
     },
     "price_hkd": {
@@ -628,15 +628,15 @@
     "silver_925": {
       "slug": "silver_925",
       "name": "گرم نقره ۹۲۵",
-      "price_raw": "5,115,480",
-      "price": 5115480,
+      "price_raw": "5,076,120",
+      "price": 5076120,
       "category": "gold"
     },
     "silver_999": {
       "slug": "silver_999",
       "name": "گرم نقره ۹۹۹",
-      "price_raw": "5,530,200",
-      "price": 5530200,
+      "price_raw": "5,487,700",
+      "price": 5487700,
       "category": "gold"
     },
     "ime_fund_atash": {
@@ -796,8 +796,8 @@
     "ime_fund_gohar": {
       "slug": "ime_fund_gohar",
       "name": "صندوق طلای گوهر",
-      "price_raw": "15,923",
-      "price": 15923,
+      "price_raw": "15,937",
+      "price": 15937,
       "category": "gold"
     },
     "ime_fund_lotuss": {
