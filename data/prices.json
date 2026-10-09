@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T20:03:13.657398Z",
+  "updated_at": "2026-10-09T00:34:05.452511Z",
   "counts": {
     "currencies": 36,
     "coins": 24,
@@ -124,8 +124,8 @@
     "price_dollar_rl": {
       "slug": "price_dollar_rl",
       "name": "دلار",
-      "price_raw": "2,663,950",
-      "price": 2663950,
+      "price_raw": "2,662,000",
+      "price": 2662000,
       "category": "currencies"
     },
     "price_eur": {
@@ -600,15 +600,15 @@
     "gold_futures": {
       "slug": "gold_futures",
       "name": "آبشده نقدی",
-      "price_raw": "1,140,680,000",
-      "price": 1140680000,
+      "price_raw": "1,140,660,000",
+      "price": 1140660000,
       "category": "gold"
     },
     "gold_melted_transfer": {
       "slug": "gold_melted_transfer",
       "name": "آبشده معاملاتی",
-      "price_raw": "1,139,630,000",
-      "price": 1139630000,
+      "price_raw": "1,139,550,000",
+      "price": 1139550000,
       "category": "gold"
     },
     "gold_melted_wholesale": {
@@ -628,15 +628,15 @@
     "silver_925": {
       "slug": "silver_925",
       "name": "گرم نقره ۹۲۵",
-      "price_raw": "4,933,330",
-      "price": 4933330,
+      "price_raw": "5,009,880",
+      "price": 5009880,
       "category": "gold"
     },
     "silver_999": {
       "slug": "silver_999",
       "name": "گرم نقره ۹۹۹",
-      "price_raw": "5,333,300",
-      "price": 5333300,
+      "price_raw": "5,416,100",
+      "price": 5416100,
       "category": "gold"
     },
     "ime_fund_atash": {
