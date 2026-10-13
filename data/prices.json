@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12T18:43:32.299843Z",
+  "updated_at": "2026-10-13T01:08:53.937253Z",
   "counts": {
     "currencies": 36,
     "coins": 24,
@@ -376,8 +376,8 @@
     "sekee": {
       "slug": "sekee",
       "name": "سکه امامی",
-      "price_raw": "2,635,500,000",
-      "price": 2635500000,
+      "price_raw": "2,635,750,000",
+      "price": 2635750000,
       "category": "coins"
     },
     "sekeb": {
@@ -572,8 +572,8 @@
     "mesghal": {
       "slug": "mesghal",
       "name": "مثقال طلا",
-      "price_raw": "1,124,590,000",
-      "price": 1124590000,
+      "price_raw": "1,124,610,000",
+      "price": 1124610000,
       "category": "gold"
     },
     "gold_17": {
@@ -607,8 +607,8 @@
     "gold_melted_transfer": {
       "slug": "gold_melted_transfer",
       "name": "آبشده معاملاتی",
-      "price_raw": "1,124,650,000",
-      "price": 1124650000,
+      "price_raw": "1,124,570,000",
+      "price": 1124570000,
       "category": "gold"
     },
     "gold_melted_wholesale": {
@@ -628,15 +628,15 @@
     "silver_925": {
       "slug": "silver_925",
       "name": "گرم نقره ۹۲۵",
-      "price_raw": "4,899,830",
-      "price": 4899830,
+      "price_raw": "4,842,750",
+      "price": 4842750,
       "category": "gold"
     },
     "silver_999": {
       "slug": "silver_999",
       "name": "گرم نقره ۹۹۹",
-      "price_raw": "5,297,100",
-      "price": 5297100,
+      "price_raw": "5,235,400",
+      "price": 5235400,
       "category": "gold"
     },
     "ime_fund_atash": {
