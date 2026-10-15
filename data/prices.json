@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T21:03:19.914587Z",
+  "updated_at": "2026-10-15T23:45:21.133148Z",
   "counts": {
     "currencies": 36,
     "coins": 24,
@@ -166,8 +166,8 @@
     "price_cny": {
       "slug": "price_cny",
       "name": "یوان چین",
-      "price_raw": "400,600",
-      "price": 400600,
+      "price_raw": "400,900",
+      "price": 400900,
       "category": "currencies"
     },
     "price_jpy": {
@@ -628,15 +628,15 @@
     "silver_925": {
       "slug": "silver_925",
       "name": "گرم نقره ۹۲۵",
-      "price_raw": "4,784,680",
-      "price": 4784680,
+      "price_raw": "4,790,860",
+      "price": 4790860,
       "category": "gold"
     },
     "silver_999": {
       "slug": "silver_999",
       "name": "گرم نقره ۹۹۹",
-      "price_raw": "5,172,600",
-      "price": 5172600,
+      "price_raw": "5,179,300",
+      "price": 5179300,
       "category": "gold"
     },
     "ime_fund_atash": {
