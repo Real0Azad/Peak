@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T19:53:29.068531Z",
+  "updated_at": "2026-10-20T22:59:38.240358Z",
   "counts": {
     "currencies": 36,
     "coins": 24,
@@ -572,8 +572,8 @@
     "mesghal": {
       "slug": "mesghal",
       "name": "مثقال طلا",
-      "price_raw": "1,145,790,000",
-      "price": 1145790000,
+      "price_raw": "1,145,850,000",
+      "price": 1145850000,
       "category": "gold"
     },
     "gold_17": {
@@ -628,15 +628,15 @@
     "silver_925": {
       "slug": "silver_925",
       "name": "گرم نقره ۹۲۵",
-      "price_raw": "4,685,090",
-      "price": 4685090,
+      "price_raw": "4,717,430",
+      "price": 4717430,
       "category": "gold"
     },
     "silver_999": {
       "slug": "silver_999",
       "name": "گرم نقره ۹۹۹",
-      "price_raw": "5,065,000",
-      "price": 5065000,
+      "price_raw": "5,099,900",
+      "price": 5099900,
       "category": "gold"
     },
     "ime_fund_atash": {
