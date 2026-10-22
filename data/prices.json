@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T05:13:39.293973Z",
+  "updated_at": "2026-10-22T10:28:18.789351Z",
   "counts": {
     "currencies": 36,
     "coins": 24,
@@ -124,358 +124,358 @@
     "price_dollar_rl": {
       "slug": "price_dollar_rl",
       "name": "دلار",
-      "price_raw": "2,694,000",
-      "price": 2694000,
+      "price_raw": "2,717,050",
+      "price": 2717050,
       "category": "currencies"
     },
     "price_eur": {
       "slug": "price_eur",
       "name": "یورو",
-      "price_raw": "3,034,500",
-      "price": 3034500,
+      "price_raw": "3,058,000",
+      "price": 3058000,
       "category": "currencies"
     },
     "price_aed": {
       "slug": "price_aed",
       "name": "درهم امارات",
-      "price_raw": "739,800",
-      "price": 739800,
+      "price_raw": "745,240",
+      "price": 745240,
       "category": "currencies"
     },
     "price_gbp": {
       "slug": "price_gbp",
       "name": "پوند انگلیس",
-      "price_raw": "3,622,300",
-      "price": 3622300,
+      "price_raw": "3,653,400",
+      "price": 3653400,
       "category": "currencies"
     },
     "price_try": {
       "slug": "price_try",
       "name": "لیر ترکیه",
-      "price_raw": "54,600",
-      "price": 54600,
+      "price_raw": "55,000",
+      "price": 55000,
       "category": "currencies"
     },
     "price_chf": {
       "slug": "price_chf",
       "name": "فرانک سوئیس",
-      "price_raw": "3,280,100",
-      "price": 3280100,
+      "price_raw": "3,325,100",
+      "price": 3325100,
       "category": "currencies"
     },
     "price_cny": {
       "slug": "price_cny",
       "name": "یوان چین",
-      "price_raw": "405,200",
-      "price": 405200,
+      "price_raw": "408,400",
+      "price": 408400,
       "category": "currencies"
     },
     "price_jpy": {
       "slug": "price_jpy",
       "name": "ین ژاپن (100 ین)",
-      "price_raw": "1,712,850",
-      "price": 1712850,
+      "price_raw": "1,738,980",
+      "price": 1738980,
       "category": "currencies"
     },
     "price_krw": {
       "slug": "price_krw",
       "name": "وون کره جنوبی",
-      "price_raw": "2,037",
-      "price": 2037,
+      "price_raw": "2,057",
+      "price": 2057,
       "category": "currencies"
     },
     "price_cad": {
       "slug": "price_cad",
       "name": "دلار کانادا",
-      "price_raw": "1,923,700",
-      "price": 1923700,
+      "price_raw": "1,944,100",
+      "price": 1944100,
       "category": "currencies"
     },
     "price_aud": {
       "slug": "price_aud",
       "name": "دلار استرالیا",
-      "price_raw": "1,901,000",
-      "price": 1901000,
+      "price_raw": "1,912,000",
+      "price": 1912000,
       "category": "currencies"
     },
     "price_nzd": {
       "slug": "price_nzd",
       "name": "دلار نیوزیلند",
-      "price_raw": "1,540,400",
-      "price": 1540400,
+      "price_raw": "1,550,400",
+      "price": 1550400,
       "category": "currencies"
     },
     "price_sgd": {
       "slug": "price_sgd",
       "name": "دلار سنگاپور",
-      "price_raw": "2,119,300",
-      "price": 2119300,
+      "price_raw": "2,136,200",
+      "price": 2136200,
       "category": "currencies"
     },
     "price_inr": {
       "slug": "price_inr",
       "name": "روپیه هند",
-      "price_raw": "28,540",
-      "price": 28540,
+      "price_raw": "28,620",
+      "price": 28620,
       "category": "currencies"
     },
     "price_pkr": {
       "slug": "price_pkr",
       "name": "روپیه پاکستان",
-      "price_raw": "9,472",
-      "price": 9472,
+      "price_raw": "9,545",
+      "price": 9545,
       "category": "currencies"
     },
     "price_iqd": {
       "slug": "price_iqd",
       "name": "دینار عراق",
-      "price_raw": "1,736",
-      "price": 1736,
+      "price_raw": "1,750",
+      "price": 1750,
       "category": "currencies"
     },
     "price_syp": {
       "slug": "price_syp",
       "name": "پوند سوریه",
-      "price_raw": "22,280",
-      "price": 22280,
+      "price_raw": "22,443",
+      "price": 22443,
       "category": "currencies"
     },
     "price_afn": {
       "slug": "price_afn",
       "name": "افغانی",
-      "price_raw": "41,610",
-      "price": 41610,
+      "price_raw": "41,910",
+      "price": 41910,
       "category": "currencies"
     },
     "price_dkk": {
       "slug": "price_dkk",
       "name": "کرون دانمارک",
-      "price_raw": "406,300",
-      "price": 406300,
+      "price_raw": "409,500",
+      "price": 409500,
       "category": "currencies"
     },
     "price_sek": {
       "slug": "price_sek",
       "name": "کرون سوئد",
-      "price_raw": "273,700",
-      "price": 273700,
+      "price_raw": "275,500",
+      "price": 275500,
       "category": "currencies"
     },
     "price_nok": {
       "slug": "price_nok",
       "name": "کرون نروژ",
-      "price_raw": "288,600",
-      "price": 288600,
+      "price_raw": "291,300",
+      "price": 291300,
       "category": "currencies"
     },
     "price_sar": {
       "slug": "price_sar",
       "name": "ریال عربستان",
-      "price_raw": "721,110",
-      "price": 721110,
+      "price_raw": "726,430",
+      "price": 726430,
       "category": "currencies"
     },
     "price_qar": {
       "slug": "price_qar",
       "name": "ریال قطر",
-      "price_raw": "715,400",
-      "price": 715400,
+      "price_raw": "722,900",
+      "price": 722900,
       "category": "currencies"
     },
     "price_omr": {
       "slug": "price_omr",
       "name": "ریال عمان",
-      "price_raw": "7,033,800",
-      "price": 7033800,
+      "price_raw": "7,087,400",
+      "price": 7087400,
       "category": "currencies"
     },
     "price_kwd": {
       "slug": "price_kwd",
       "name": "دینار کویت",
-      "price_raw": "8,731,800",
-      "price": 8731800,
+      "price_raw": "8,796,200",
+      "price": 8796200,
       "category": "currencies"
     },
     "price_bhd": {
       "slug": "price_bhd",
       "name": "دینار بحرین",
-      "price_raw": "7,181,200",
-      "price": 7181200,
+      "price_raw": "7,235,900",
+      "price": 7235900,
       "category": "currencies"
     },
     "price_myr": {
       "slug": "price_myr",
       "name": "رینگیت مالزی",
-      "price_raw": "663,200",
-      "price": 663200,
+      "price_raw": "667,600",
+      "price": 667600,
       "category": "currencies"
     },
     "price_thb": {
       "slug": "price_thb",
       "name": "بات تایلند",
-      "price_raw": "80,610",
-      "price": 80610,
+      "price_raw": "80,850",
+      "price": 80850,
       "category": "currencies"
     },
     "price_hkd": {
       "slug": "price_hkd",
       "name": "دلار هنگ کنگ",
-      "price_raw": "344,600",
-      "price": 344600,
+      "price_raw": "347,700",
+      "price": 347700,
       "category": "currencies"
     },
     "price_rub": {
       "slug": "price_rub",
       "name": "روبل روسیه",
-      "price_raw": "33,000",
-      "price": 33000,
+      "price_raw": "33,790",
+      "price": 33790,
       "category": "currencies"
     },
     "price_azn": {
       "slug": "price_azn",
       "name": "منات آذربایجان",
-      "price_raw": "1,594,400",
-      "price": 1594400,
+      "price_raw": "1,606,100",
+      "price": 1606100,
       "category": "currencies"
     },
     "price_amd": {
       "slug": "price_amd",
       "name": "درام ارمنستان",
-      "price_raw": "7,630",
-      "price": 7630,
+      "price_raw": "7,470",
+      "price": 7470,
       "category": "currencies"
     },
     "price_gel": {
       "slug": "price_gel",
       "name": "لاری گرجستان",
-      "price_raw": "1,042,000",
-      "price": 1042000,
+      "price_raw": "1,049,600",
+      "price": 1049600,
       "category": "currencies"
     },
     "price_kgs": {
       "slug": "price_kgs",
       "name": "سوم قرقیزستان",
-      "price_raw": "30,930",
-      "price": 30930,
+      "price_raw": "31,160",
+      "price": 31160,
       "category": "currencies"
     },
     "price_tjs": {
       "slug": "price_tjs",
       "name": "سامانی تاجیکستان",
-      "price_raw": "284,700",
-      "price": 284700,
+      "price_raw": "286,900",
+      "price": 286900,
       "category": "currencies"
     },
     "price_tmt": {
       "slug": "price_tmt",
       "name": "منات ترکمنستان",
-      "price_raw": "739,000",
-      "price": 739000,
+      "price_raw": "744,500",
+      "price": 744500,
       "category": "currencies"
     },
     "sekee": {
       "slug": "sekee",
       "name": "سکه امامی",
-      "price_raw": "2,714,250,000",
-      "price": 2714250000,
+      "price_raw": "2,740,800,000",
+      "price": 2740800000,
       "category": "coins"
     },
     "sekeb": {
       "slug": "sekeb",
       "name": "سکه بهار آزادی",
-      "price_raw": "2,620,500,000",
-      "price": 2620500000,
+      "price_raw": "2,662,450,000",
+      "price": 2662450000,
       "category": "coins"
     },
     "nim": {
       "slug": "nim",
       "name": "نیم سکه",
-      "price_raw": "1,427,800,000",
-      "price": 1427800000,
+      "price_raw": "1,429,000,000",
+      "price": 1429000000,
       "category": "coins"
     },
     "rob": {
       "slug": "rob",
       "name": "ربع سکه",
-      "price_raw": "760,800,000",
-      "price": 760800000,
+      "price_raw": "767,900,000",
+      "price": 767900000,
       "category": "coins"
     },
     "gerami": {
       "slug": "gerami",
       "name": "سکه گرمی",
-      "price_raw": "380,100,000",
-      "price": 380100000,
+      "price_raw": "390,000,000",
+      "price": 390000000,
       "category": "coins"
     },
     "retail_sekee": {
       "slug": "retail_sekee",
       "name": "سکه امامی",
-      "price_raw": "2,724,100,000",
-      "price": 2724100000,
+      "price_raw": "2,751,000,000",
+      "price": 2751000000,
       "category": "coins"
     },
     "retail_sekeb": {
       "slug": "retail_sekeb",
       "name": "سکه بهار آزادی",
-      "price_raw": "2,626,300,000",
-      "price": 2626300000,
+      "price_raw": "2,668,500,000",
+      "price": 2668500000,
       "category": "coins"
     },
     "retail_nim": {
       "slug": "retail_nim",
       "name": "نیم سکه",
-      "price_raw": "1,431,800,000",
-      "price": 1431800000,
+      "price_raw": "1,433,000,000",
+      "price": 1433000000,
       "category": "coins"
     },
     "retail_rob": {
       "slug": "retail_rob",
       "name": "ربع سکه",
-      "price_raw": "763,800,000",
-      "price": 763800000,
+      "price_raw": "771,000,000",
+      "price": 771000000,
       "category": "coins"
     },
     "retail_gerami": {
       "slug": "retail_gerami",
       "name": "سکه گرمی",
-      "price_raw": "382,100,000",
-      "price": 382100000,
+      "price_raw": "392,000,000",
+      "price": 392000000,
       "category": "coins"
     },
     "coin_blubber": {
       "slug": "coin_blubber",
       "name": "حباب سکه امامی",
-      "price_raw": "81,840,000",
-      "price": 81840000,
+      "price_raw": "120,470,000",
+      "price": 120470000,
       "category": "coins"
     },
     "sekeb_blubber": {
       "slug": "sekeb_blubber",
       "name": "حباب سکه بهار آزادی",
-      "price_raw": "11,960,000",
-      "price": 11960000,
+      "price_raw": "42,020,000",
+      "price": 42020000,
       "category": "coins"
     },
     "nim_blubber": {
       "slug": "nim_blubber",
       "name": "حباب نیم سکه",
-      "price_raw": "112,130,000",
-      "price": 112130000,
+      "price_raw": "119,220,000",
+      "price": 119220000,
       "category": "coins"
     },
     "rob_blubber": {
       "slug": "rob_blubber",
       "name": "حباب ربع سکه",
-      "price_raw": "102,940,000",
-      "price": 102940000,
+      "price_raw": "113,080,000",
+      "price": 113080000,
       "category": "coins"
     },
     "gerami_blubber": {
       "slug": "gerami_blubber",
       "name": "حباب سکه گرمی",
-      "price_raw": "56,520,000",
-      "price": 56520000,
+      "price_raw": "67,870,000",
+      "price": 67870000,
       "category": "coins"
     },
     "gc16": {
@@ -523,120 +523,120 @@
     "sekee_down": {
       "slug": "sekee_down",
       "name": "تمام سکه (قبل 86)",
-      "price_raw": "2620000000",
-      "price": 2620000000,
+      "price_raw": "2660000000",
+      "price": 2660000000,
       "category": "coins"
     },
     "nim_down": {
       "slug": "nim_down",
       "name": "نیم سکه (قبل 86)",
-      "price_raw": "1310000000",
-      "price": 1310000000,
+      "price_raw": "1320000000",
+      "price": 1320000000,
       "category": "coins"
     },
     "rob_down": {
       "slug": "rob_down",
       "name": "ربع سکه (قبل 86)",
-      "price_raw": "670000000",
-      "price": 670000000,
+      "price_raw": "680000000",
+      "price": 680000000,
       "category": "coins"
     },
     "geram18": {
       "slug": "geram18",
       "name": "طلای 18 عیار / 750",
-      "price_raw": "270,550,000",
-      "price": 270550000,
+      "price_raw": "271,836,000",
+      "price": 271836000,
       "category": "gold"
     },
     "gold_740k": {
       "slug": "gold_740k",
       "name": "طلای 18 عیار / 740",
-      "price_raw": "266,943,000",
-      "price": 266943000,
+      "price_raw": "268,212,000",
+      "price": 268212000,
       "category": "gold"
     },
     "geram24": {
       "slug": "geram24",
       "name": "طلای ۲۴ عیار",
-      "price_raw": "360,730,000",
-      "price": 360730000,
+      "price_raw": "362,444,000",
+      "price": 362444000,
       "category": "gold"
     },
     "gold_mini_size": {
       "slug": "gold_mini_size",
       "name": "طلای دست دوم",
-      "price_raw": "266,942,890",
-      "price": 266942890,
+      "price_raw": "268,211,580",
+      "price": 268211580,
       "category": "gold"
     },
     "mesghal": {
       "slug": "mesghal",
       "name": "مثقال طلا",
-      "price_raw": "1,171,960,000",
-      "price": 1171960000,
+      "price_raw": "1,177,540,000",
+      "price": 1177540000,
       "category": "gold"
     },
     "gold_17": {
       "slug": "gold_17",
       "name": "مثقال / بدون حباب",
-      "price_raw": "1,167,813,000",
-      "price": 1167813000,
+      "price_raw": "1,162,794,000",
+      "price": 1162794000,
       "category": "gold"
     },
     "gold_17_transfer": {
       "slug": "gold_17_transfer",
       "name": "حباب آبشده",
-      "price_raw": "41,537,292",
-      "price": 41537292,
+      "price_raw": "37,082,841",
+      "price": 37082841,
       "category": "gold"
     },
     "gold_17_coin": {
       "slug": "gold_17_coin",
       "name": "مثقال / بر مبنای سکه",
-      "price_raw": "1,198,648,590",
-      "price": 1198648590,
+      "price_raw": "1,209,336,220",
+      "price": 1209336220,
       "category": "gold"
     },
     "gold_futures": {
       "slug": "gold_futures",
       "name": "آبشده نقدی",
-      "price_raw": "1,170,740,000",
-      "price": 1170740000,
+      "price_raw": "1,174,450,000",
+      "price": 1174450000,
       "category": "gold"
     },
     "gold_melted_transfer": {
       "slug": "gold_melted_transfer",
       "name": "آبشده معاملاتی",
-      "price_raw": "1,174,040,000",
-      "price": 1174040000,
+      "price_raw": "1,177,530,000",
+      "price": 1177530000,
       "category": "gold"
     },
     "gold_melted_wholesale": {
       "slug": "gold_melted_wholesale",
       "name": "آبشده بنکداری",
-      "price_raw": "1,172,470,000",
-      "price": 1172470000,
+      "price_raw": "1,178,040,000",
+      "price": 1178040000,
       "category": "gold"
     },
     "gold_world_futures": {
       "slug": "gold_world_futures",
       "name": "آبشده کمتر از کیلو",
-      "price_raw": "1,172,970,000",
-      "price": 1172970000,
+      "price_raw": "1,178,540,000",
+      "price": 1178540000,
       "category": "gold"
     },
     "silver_925": {
       "slug": "silver_925",
       "name": "گرم نقره ۹۲۵",
-      "price_raw": "4,728,930",
-      "price": 4728930,
+      "price_raw": "4,768,950",
+      "price": 4768950,
       "category": "gold"
     },
     "silver_999": {
       "slug": "silver_999",
       "name": "گرم نقره ۹۹۹",
-      "price_raw": "5,112,400",
-      "price": 5112400,
+      "price_raw": "5,155,600",
+      "price": 5155600,
       "category": "gold"
     },
     "ime_fund_atash": {
