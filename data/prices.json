@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T16:43:17.230364Z",
+  "updated_at": "2026-10-29T21:37:49.549708Z",
   "counts": {
     "currencies": 36,
     "coins": 24,
@@ -250,8 +250,8 @@
     "price_dkk": {
       "slug": "price_dkk",
       "name": "کرون دانمارک",
-      "price_raw": "404,100",
-      "price": 404100,
+      "price_raw": "404,400",
+      "price": 404400,
       "category": "currencies"
     },
     "price_sek": {
@@ -376,106 +376,106 @@
     "sekee": {
       "slug": "sekee",
       "name": "سکه امامی",
-      "price_raw": "2,673,600,000",
-      "price": 2673600000,
+      "price_raw": "2,667,850,000",
+      "price": 2667850000,
       "category": "coins"
     },
     "sekeb": {
       "slug": "sekeb",
       "name": "سکه بهار آزادی",
-      "price_raw": "2,582,100,000",
-      "price": 2582100000,
+      "price_raw": "2,575,850,000",
+      "price": 2575850000,
       "category": "coins"
     },
     "nim": {
       "slug": "nim",
       "name": "نیم سکه",
-      "price_raw": "1,405,200,000",
-      "price": 1405200000,
+      "price_raw": "1,403,900,000",
+      "price": 1403900000,
       "category": "coins"
     },
     "rob": {
       "slug": "rob",
       "name": "ربع سکه",
-      "price_raw": "752,700,000",
-      "price": 752700000,
+      "price_raw": "759,300,000",
+      "price": 759300000,
       "category": "coins"
     },
     "gerami": {
       "slug": "gerami",
       "name": "سکه گرمی",
-      "price_raw": "382,800,000",
-      "price": 382800000,
+      "price_raw": "380,100,000",
+      "price": 380100000,
       "category": "coins"
     },
     "retail_sekee": {
       "slug": "retail_sekee",
       "name": "سکه امامی",
-      "price_raw": "2,683,400,000",
-      "price": 2683400000,
+      "price_raw": "2,677,800,000",
+      "price": 2677800000,
       "category": "coins"
     },
     "retail_sekeb": {
       "slug": "retail_sekeb",
       "name": "سکه بهار آزادی",
-      "price_raw": "2,587,800,000",
-      "price": 2587800000,
+      "price_raw": "2,581,800,000",
+      "price": 2581800000,
       "category": "coins"
     },
     "retail_nim": {
       "slug": "retail_nim",
       "name": "نیم سکه",
-      "price_raw": "1,409,200,000",
-      "price": 1409200000,
+      "price_raw": "1,407,900,000",
+      "price": 1407900000,
       "category": "coins"
     },
     "retail_rob": {
       "slug": "retail_rob",
       "name": "ربع سکه",
-      "price_raw": "755,700,000",
-      "price": 755700000,
+      "price_raw": "762,300,000",
+      "price": 762300000,
       "category": "coins"
     },
     "retail_gerami": {
       "slug": "retail_gerami",
       "name": "سکه گرمی",
-      "price_raw": "384,800,000",
-      "price": 384800000,
+      "price_raw": "382,100,000",
+      "price": 382100000,
       "category": "coins"
     },
     "coin_blubber": {
       "slug": "coin_blubber",
       "name": "حباب سکه امامی",
-      "price_raw": "102,650,000",
-      "price": 102650000,
+      "price_raw": "93,420,000",
+      "price": 93420000,
       "category": "coins"
     },
     "sekeb_blubber": {
       "slug": "sekeb_blubber",
       "name": "حباب سکه بهار آزادی",
-      "price_raw": "11,050,000",
-      "price": 11050000,
+      "price_raw": "1,470,000",
+      "price": 1470000,
       "category": "coins"
     },
     "nim_blubber": {
       "slug": "nim_blubber",
       "name": "حباب نیم سکه",
-      "price_raw": "120,270,000",
-      "price": 120270000,
+      "price_raw": "117,180,000",
+      "price": 117180000,
       "category": "coins"
     },
     "rob_blubber": {
       "slug": "rob_blubber",
       "name": "حباب ربع سکه",
-      "price_raw": "110,210,000",
-      "price": 110210000,
+      "price_raw": "115,910,000",
+      "price": 115910000,
       "category": "coins"
     },
     "gerami_blubber": {
       "slug": "gerami_blubber",
       "name": "حباب سکه گرمی",
-      "price_raw": "66,780,000",
-      "price": 66780000,
+      "price_raw": "63,640,000",
+      "price": 63640000,
       "category": "coins"
     },
     "gc16": {
@@ -628,15 +628,15 @@
     "silver_925": {
       "slug": "silver_925",
       "name": "گرم نقره ۹۲۵",
-      "price_raw": "4,545,250",
-      "price": 4545250,
+      "price_raw": "4,589,830",
+      "price": 4589830,
       "category": "gold"
     },
     "silver_999": {
       "slug": "silver_999",
       "name": "گرم نقره ۹۹۹",
-      "price_raw": "4,913,800",
-      "price": 4913800,
+      "price_raw": "4,962,000",
+      "price": 4962000,
       "category": "gold"
     },
     "ime_fund_atash": {
