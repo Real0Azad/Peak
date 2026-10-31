@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T23:38:29.614145Z",
+  "updated_at": "2026-10-31T04:38:54.542871Z",
   "counts": {
     "currencies": 36,
     "coins": 24,
@@ -628,15 +628,15 @@
     "silver_925": {
       "slug": "silver_925",
       "name": "گرم نقره ۹۲۵",
-      "price_raw": "4,348,830",
-      "price": 4348830,
+      "price_raw": "4,368,250",
+      "price": 4368250,
       "category": "gold"
     },
     "silver_999": {
       "slug": "silver_999",
       "name": "گرم نقره ۹۹۹",
-      "price_raw": "4,701,400",
-      "price": 4701400,
+      "price_raw": "4,722,400",
+      "price": 4722400,
       "category": "gold"
     },
     "ime_fund_atash": {
