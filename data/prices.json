@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T19:52:34.441013Z",
+  "updated_at": "2026-10-31T23:10:00.126884Z",
   "counts": {
     "currencies": 36,
     "coins": 24,
@@ -124,8 +124,8 @@
     "price_dollar_rl": {
       "slug": "price_dollar_rl",
       "name": "دلار",
-      "price_raw": "2,705,000",
-      "price": 2705000,
+      "price_raw": "2,705,100",
+      "price": 2705100,
       "category": "currencies"
     },
     "price_eur": {
@@ -383,8 +383,8 @@
     "sekeb": {
       "slug": "sekeb",
       "name": "سکه بهار آزادی",
-      "price_raw": "2,498,500,000",
-      "price": 2498500000,
+      "price_raw": "2,498,250,000",
+      "price": 2498250000,
       "category": "coins"
     },
     "nim": {
@@ -572,8 +572,8 @@
     "mesghal": {
       "slug": "mesghal",
       "name": "مثقال طلا",
-      "price_raw": "1,092,970,000",
-      "price": 1092970000,
+      "price_raw": "1,093,020,000",
+      "price": 1093020000,
       "category": "gold"
     },
     "gold_17": {
@@ -600,8 +600,8 @@
     "gold_futures": {
       "slug": "gold_futures",
       "name": "آبشده نقدی",
-      "price_raw": "1,089,720,000",
-      "price": 1089720000,
+      "price_raw": "1,089,680,000",
+      "price": 1089680000,
       "category": "gold"
     },
     "gold_melted_transfer": {
@@ -628,15 +628,15 @@
     "silver_925": {
       "slug": "silver_925",
       "name": "گرم نقره ۹۲۵",
-      "price_raw": "4,369,220",
-      "price": 4369220,
+      "price_raw": "4,384,590",
+      "price": 4384590,
       "category": "gold"
     },
     "silver_999": {
       "slug": "silver_999",
       "name": "گرم نقره ۹۹۹",
-      "price_raw": "4,723,500",
-      "price": 4723500,
+      "price_raw": "4,740,100",
+      "price": 4740100,
       "category": "gold"
     },
     "ime_fund_atash": {
