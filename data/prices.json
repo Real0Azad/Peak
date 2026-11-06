@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T23:47:17.296466Z",
+  "updated_at": "2026-11-06T05:39:49.808431Z",
   "counts": {
     "currencies": 36,
     "coins": 24,
@@ -544,99 +544,99 @@
     "geram18": {
       "slug": "geram18",
       "name": "طلای 18 عیار / 750",
-      "price_raw": "262,558,000",
-      "price": 262558000,
+      "price_raw": "261,665,000",
+      "price": 261665000,
       "category": "gold"
     },
     "gold_740k": {
       "slug": "gold_740k",
       "name": "طلای 18 عیار / 740",
-      "price_raw": "259,057,000",
-      "price": 259057000,
+      "price_raw": "258,176,000",
+      "price": 258176000,
       "category": "gold"
     },
     "geram24": {
       "slug": "geram24",
       "name": "طلای ۲۴ عیار",
-      "price_raw": "350,074,000",
-      "price": 350074000,
+      "price_raw": "348,883,000",
+      "price": 348883000,
       "category": "gold"
     },
     "gold_mini_size": {
       "slug": "gold_mini_size",
       "name": "طلای دست دوم",
-      "price_raw": "259,057,390",
-      "price": 259057390,
+      "price_raw": "258,175,910",
+      "price": 258175910,
       "category": "gold"
     },
     "mesghal": {
       "slug": "mesghal",
       "name": "مثقال طلا",
-      "price_raw": "1,137,320,000",
-      "price": 1137320000,
+      "price_raw": "1,133,450,000",
+      "price": 1133450000,
       "category": "gold"
     },
     "gold_17": {
       "slug": "gold_17",
       "name": "مثقال / بدون حباب",
-      "price_raw": "1,152,446,000",
-      "price": 1152446000,
+      "price_raw": "1,147,785,000",
+      "price": 1147785000,
       "category": "gold"
     },
     "gold_17_transfer": {
       "slug": "gold_17_transfer",
       "name": "حباب آبشده",
-      "price_raw": "14,359,528",
-      "price": 14359528,
+      "price_raw": "14,327,818",
+      "price": 14327818,
       "category": "gold"
     },
     "gold_17_coin": {
       "slug": "gold_17_coin",
       "name": "مثقال / بر مبنای سکه",
-      "price_raw": "1,174,998,900",
-      "price": 1174998900,
+      "price_raw": "1,175,705,520",
+      "price": 1175705520,
       "category": "gold"
     },
     "gold_futures": {
       "slug": "gold_futures",
       "name": "آبشده نقدی",
-      "price_raw": "1,135,160,000",
-      "price": 1135160000,
+      "price_raw": "1,130,530,000",
+      "price": 1130530000,
       "category": "gold"
     },
     "gold_melted_transfer": {
       "slug": "gold_melted_transfer",
       "name": "آبشده معاملاتی",
-      "price_raw": "1,137,350,000",
-      "price": 1137350000,
+      "price_raw": "1,133,490,000",
+      "price": 1133490000,
       "category": "gold"
     },
     "gold_melted_wholesale": {
       "slug": "gold_melted_wholesale",
       "name": "آبشده بنکداری",
-      "price_raw": "1,137,850,000",
-      "price": 1137850000,
+      "price_raw": "1,133,980,000",
+      "price": 1133980000,
       "category": "gold"
     },
     "gold_world_futures": {
       "slug": "gold_world_futures",
       "name": "آبشده کمتر از کیلو",
-      "price_raw": "1,138,350,000",
-      "price": 1138350000,
+      "price_raw": "1,134,480,000",
+      "price": 1134480000,
       "category": "gold"
     },
     "silver_925": {
       "slug": "silver_925",
       "name": "گرم نقره ۹۲۵",
-      "price_raw": "4,565,990",
-      "price": 4565990,
+      "price_raw": "4,395,310",
+      "price": 4395310,
       "category": "gold"
     },
     "silver_999": {
       "slug": "silver_999",
       "name": "گرم نقره ۹۹۹",
-      "price_raw": "4,936,200",
-      "price": 4936200,
+      "price_raw": "4,751,700",
+      "price": 4751700,
       "category": "gold"
     },
     "ime_fund_atash": {
