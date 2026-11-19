@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T19:16:22.641523Z",
+  "updated_at": "2026-11-19T01:21:29.966688Z",
   "counts": {
     "currencies": 36,
     "coins": 24,
@@ -383,8 +383,8 @@
     "sekeb": {
       "slug": "sekeb",
       "name": "سکه بهار آزادی",
-      "price_raw": "2,407,450,000",
-      "price": 2407450000,
+      "price_raw": "2,407,500,000",
+      "price": 2407500000,
       "category": "coins"
     },
     "nim": {
@@ -628,15 +628,15 @@
     "silver_925": {
       "slug": "silver_925",
       "name": "گرم نقره ۹۲۵",
-      "price_raw": "3,867,910",
-      "price": 3867910,
+      "price_raw": "3,920,370",
+      "price": 3920370,
       "category": "gold"
     },
     "silver_999": {
       "slug": "silver_999",
       "name": "گرم نقره ۹۹۹",
-      "price_raw": "4,181,500",
-      "price": 4181500,
+      "price_raw": "4,238,200",
+      "price": 4238200,
       "category": "gold"
     },
     "ime_fund_atash": {
