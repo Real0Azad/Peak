@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T20:45:42.017437Z",
+  "updated_at": "2026-11-25T03:58:56.870756Z",
   "counts": {
     "currencies": 36,
     "coins": 24,
@@ -628,71 +628,71 @@
     "silver_925": {
       "slug": "silver_925",
       "name": "گرم نقره ۹۲۵",
-      "price_raw": "3,728,500",
-      "price": 3728500,
+      "price_raw": "3,709,160",
+      "price": 3709160,
       "category": "gold"
     },
     "silver_999": {
       "slug": "silver_999",
       "name": "گرم نقره ۹۹۹",
-      "price_raw": "4,030,800",
-      "price": 4030800,
+      "price_raw": "3,999,000",
+      "price": 3999000,
       "category": "gold"
     },
     "ime_fund_atash": {
       "slug": "ime_fund_atash",
       "name": "صندوق طلای آتش",
-      "price_raw": "45,127",
-      "price": 45127,
+      "price_raw": "34,056",
+      "price": 34056,
       "category": "gold"
     },
     "ime_fund_alton": {
       "slug": "ime_fund_alton",
       "name": "صندوق طلای آلتون",
-      "price_raw": "79,450",
-      "price": 79450,
+      "price_raw": "60,316",
+      "price": 60316,
       "category": "gold"
     },
     "ime_fund_emerald": {
       "slug": "ime_fund_emerald",
       "name": "صندوق طلای امرالد",
-      "price_raw": "34,021",
-      "price": 34021,
+      "price_raw": "24,734",
+      "price": 24734,
       "category": "gold"
     },
     "ime_fund_tabesh": {
       "slug": "ime_fund_tabesh",
       "name": "صندوق طلای تابش",
-      "price_raw": "101,860",
-      "price": 101860,
+      "price_raw": "74,500",
+      "price": 74500,
       "category": "gold"
     },
     "ime_fund_jaam_tala": {
       "slug": "ime_fund_jaam_tala",
       "name": "صندوق طلای جام طلا",
-      "price_raw": "22,860",
-      "price": 22860,
+      "price_raw": "17,538",
+      "price": 17538,
       "category": "gold"
     },
     "ime_fund_javaher": {
       "slug": "ime_fund_javaher",
       "name": "صندوق طلای جواهر",
-      "price_raw": "45,210",
-      "price": 45210,
+      "price_raw": "68,661",
+      "price": 68661,
       "category": "gold"
     },
     "ime_fund_derakhshan": {
       "slug": "ime_fund_derakhshan",
       "name": "صندوق طلای درخشان",
-      "price_raw": "45,183",
-      "price": 45183,
+      "price_raw": "34,405",
+      "price": 34405,
       "category": "gold"
     },
     "ime_fund_dorna": {
       "slug": "ime_fund_dorna",
       "name": "صندوق طلای درنا",
-      "price_raw": "31,033",
-      "price": 31033,
+      "price_raw": "21,747",
+      "price": 21747,
       "category": "gold"
     },
     "ime_fund_roz_toranj": {
@@ -705,92 +705,92 @@
     "ime_fund_rosgold": {
       "slug": "ime_fund_rosgold",
       "name": "صندوق طلای رزگلد",
-      "price_raw": "23,178",
-      "price": 23178,
+      "price_raw": "17,479",
+      "price": 17479,
       "category": "gold"
     },
     "ime_fund_riton": {
       "slug": "ime_fund_riton",
       "name": "صندوق طلای ریتون",
-      "price_raw": "24,020",
-      "price": 24020,
+      "price_raw": "17,910",
+      "price": 17910,
       "category": "gold"
     },
     "ime_fund_zar": {
       "slug": "ime_fund_zar",
       "name": "صندوق طلای زر",
-      "price_raw": "1,071,200",
-      "price": 1071200,
+      "price_raw": "795,900",
+      "price": 795900,
       "category": "gold"
     },
     "ime_fund_zarfam": {
       "slug": "ime_fund_zarfam",
       "name": "صندوق طلای زرفام",
-      "price_raw": "181,697",
-      "price": 181697,
+      "price_raw": "137,966",
+      "price": 137966,
       "category": "gold"
     },
     "ime_fund_zargar": {
       "slug": "ime_fund_zargar",
       "name": "صندوق طلای زرگر",
-      "price_raw": "25,433",
-      "price": 25433,
+      "price_raw": "19,117",
+      "price": 19117,
       "category": "gold"
     },
     "ime_fund_zarvan": {
       "slug": "ime_fund_zarvan",
       "name": "صندوق طلای زروان",
-      "price_raw": "50,811",
-      "price": 50811,
+      "price_raw": "38,100",
+      "price": 38100,
       "category": "gold"
     },
     "ime_fund_zomorod": {
       "slug": "ime_fund_zomorod",
       "name": "صندوق طلای زمرد",
-      "price_raw": "34,657",
-      "price": 34657,
+      "price_raw": "26,328",
+      "price": 26328,
       "category": "gold"
     },
     "ime_fund_ayar": {
       "slug": "ime_fund_ayar",
       "name": "صندوق طلای عیار",
-      "price_raw": "707,260",
-      "price": 707260,
+      "price_raw": "514,215",
+      "price": 514215,
       "category": "gold"
     },
     "ime_fund_ghyrat": {
       "slug": "ime_fund_ghyrat",
       "name": "صندوق طلای قیراط",
-      "price_raw": "45,504",
-      "price": 45504,
+      "price_raw": "34,631",
+      "price": 34631,
       "category": "gold"
     },
     "ime_fund_kahroba": {
       "slug": "ime_fund_kahroba",
       "name": "صندوق طلای کهربا",
-      "price_raw": "243,600",
-      "price": 243600,
+      "price_raw": "180,040",
+      "price": 180040,
       "category": "gold"
     },
     "ime_fund_golda": {
       "slug": "ime_fund_golda",
       "name": "صندوق طلای گلدا",
-      "price_raw": "22,312",
-      "price": 22312,
+      "price_raw": "17,548",
+      "price": 17548,
       "category": "gold"
     },
     "ime_fund_goldis": {
       "slug": "ime_fund_goldis",
       "name": "صندوق طلای گلدیس",
-      "price_raw": "48,702",
-      "price": 48702,
+      "price_raw": "36,352",
+      "price": 36352,
       "category": "gold"
     },
     "ime_fund_ganj": {
       "slug": "ime_fund_ganj",
       "name": "صندوق طلای گنج",
-      "price_raw": "217,000",
-      "price": 217000,
+      "price_raw": "158,405",
+      "price": 158405,
       "category": "gold"
     },
     "ime_fund_gohar": {
@@ -810,43 +810,43 @@
     "ime_fund_liyan": {
       "slug": "ime_fund_liyan",
       "name": "صندوق طلای لیان",
-      "price_raw": "45,777",
-      "price": 45777,
+      "price_raw": "34,609",
+      "price": 34609,
       "category": "gold"
     },
     "ime_fund_mesghal": {
       "slug": "ime_fund_mesghal",
       "name": "صندوق طلای مثقال",
-      "price_raw": "204,833",
-      "price": 204833,
+      "price_raw": "150,500",
+      "price": 150500,
       "category": "gold"
     },
     "ime_fund_naab": {
       "slug": "ime_fund_naab",
       "name": "صندوق طلای ناب",
-      "price_raw": "86,390",
-      "price": 86390,
+      "price_raw": "63,420",
+      "price": 63420,
       "category": "gold"
     },
     "ime_fund_nafis": {
       "slug": "ime_fund_nafis",
       "name": "صندوق طلای نفیس",
-      "price_raw": "147,585",
-      "price": 147585,
+      "price_raw": "107,450",
+      "price": 107450,
       "category": "gold"
     },
     "ime_fund_negin_fars": {
       "slug": "ime_fund_negin_fars",
       "name": "صندوق طلای نگین فارس",
-      "price_raw": "19,630",
-      "price": 19630,
+      "price_raw": "14,525",
+      "price": 14525,
       "category": "gold"
     },
     "ime_fund_hamiyan": {
       "slug": "ime_fund_hamiyan",
       "name": "صندوق طلای همیان",
-      "price_raw": "22,316",
-      "price": 22316,
+      "price_raw": "16,670",
+      "price": 16670,
       "category": "gold"
     },
     "ime_fund_miras": {
